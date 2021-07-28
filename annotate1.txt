@@ -1,0 +1,10 @@
+E:\Document\DoAnTotNghiep\nqquang\nqquang\Project\dataset\JPEGImages\levle0_0.jpg,223,290,251,306,fore
+E:\Document\DoAnTotNghiep\nqquang\nqquang\Project\dataset\JPEGImages\levle0_0.jpg,217,250,239,276,fore
+E:\Document\DoAnTotNghiep\nqquang\nqquang\Project\dataset\JPEGImages\levle0_0.jpg,186,514,209,536,fore
+E:\Document\DoAnTotNghiep\nqquang\nqquang\Project\dataset\JPEGImages\levle0_1.jpg,394,933,493,1064,fore
+E:\Document\DoAnTotNghiep\nqquang\nqquang\Project\dataset\JPEGImages\levle0_1.jpg,654,2160,754,2274,fore
+E:\Document\DoAnTotNghiep\nqquang\nqquang\Project\dataset\JPEGImages\levle0_1.jpg,930,3079,1099,3179,fore
+E:\Document\DoAnTotNghiep\nqquang\nqquang\Project\dataset\JPEGImages\levle0_10.jpg,357,92,373,119,fore
+E:\Document\DoAnTotNghiep\nqquang\nqquang\Project\dataset\JPEGImages\levle0_10.jpg,394,114,424,139,fore
+E:\Document\DoAnTotNghiep\nqquang\nqquang\Project\dataset\JPEGImages\levle0_10.jpg,314,174,336,194,fore
+E:\Document\DoAnTotNghiep\nqquang\nqquang\Project\dataset\JPEGImages\levle0_10.jpg,316,246,342,276,fore
